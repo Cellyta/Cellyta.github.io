@@ -1,0 +1,43 @@
+*{
+    font-family: "Inconsolata", monospace;
+}
+header{
+    background-color: rgb(134, 182, 246);
+}
+header span{
+    color: rgb(238, 245, 255);
+}
+.nav-item a{
+    color: rgb(238, 245, 255);
+}
+.nav-item a:visited{
+    color: rgb(238, 245, 255);
+}
+.nav-item a:hover{
+    color: rgb(3, 52, 110);
+}
+
+#nav-butoon{
+    background-color: rgb(3, 52, 110);
+}
+.bi{
+    color: rgb(3, 52, 110);
+    font-size: 25px;
+}
+.img-proyecto1{
+    background-image: url('/assets/Pintereste.png');
+    background-size: 800px;
+    background-blend-mode: screen;
+}
+.img-proyecto2{
+    background-image: url('/assets/Pintereste.png');
+    background-size: 800px;
+    opacity: 90%;
+
+}
+.img-proyecto3{
+    background-image: url('/assets/Pintereste.png');
+    background-size: 800px;
+    opacity: 90%;
+
+}
