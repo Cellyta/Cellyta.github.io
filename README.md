@@ -23,4 +23,4 @@ El proposito de esta pagina es mostrar mi portafolio de proyecto como desarrolla
 
 ### Captura del proyecto
 
-![captura del proyecto](assets\cap.png)
+![captura del proyecto](/assets/cap.png)
