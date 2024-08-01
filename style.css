@@ -41,3 +41,16 @@ header span{
     opacity: 90%;
 
 }
+footer{
+    background-color: rgb(134, 182, 246);
+    
+}
+footer .icon-footer i{
+    color: rgb(238, 245, 255);
+}
+footer p{
+    color: rgb(238, 245, 255);
+}
+footer p a{
+    color: rgb(238, 245, 255);
+}
