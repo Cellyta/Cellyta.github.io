@@ -1,59 +1,64 @@
-*{
-    font-family: "Inconsolata", monospace;
+* {
+  font-family: "Inconsolata", monospace;
 }
-header{
-    background-color: rgb(134, 182, 246);
+header {
+  background-color: rgb(134, 182, 246);
 }
-header span{
-    color: rgb(238, 245, 255);
+header span {
+  color: rgb(238, 245, 255);
 }
-.nav-item a{
-    color: rgb(238, 245, 255);
+.nav-item a {
+  color: rgb(238, 245, 255);
 }
-.nav-item a:visited{
-    color: rgb(238, 245, 255);
+.nav-item a:visited {
+  color: rgb(238, 245, 255);
 }
-.nav-item a:hover{
-    color: rgb(3, 52, 110);
+.nav-item a:hover {
+  color: rgb(3, 52, 110);
 }
 
-#nav-butoon{
-    background-color: rgb(3, 52, 110);
+#nav-butoon {
+  background-color: rgb(3, 52, 110);
 }
-.bi{
-    color: rgb(3, 52, 110);
-    font-size: 25px;
+.bi {
+  color: rgb(3, 52, 110);
+  font-size: 25px;
 }
-.img-proyecto1{
-    background-image: url('/assets/Pintereste.png');
-    background-size: 800px;
-    background-blend-mode: screen;
+.img-proyecto1 {
+  background-image: url("/assets/Pintereste.png");
+  background-size: 800px;
+  background-blend-mode: screen;
+  background-size: cover; 
+  background-position: center;
 }
-.img-proyecto2{
-    background-image: url('/assets/Pintereste.png');
-    background-size: 800px;
-    opacity: 90%;
+.img-proyecto2 {
+  background-image: url("/assets/NOTAKES.png");
+  background-size: 800px;
+  background-blend-mode: screen;
+  background-size: cover; 
+  background-position: center;
+  
+}
+.img-proyecto3 {
+  background-image: url("/assets/GOLFITO.png");
+  background-size: 800px;
+  background-blend-mode: screen;
+  background-size: cover; 
+  background-position: center;
 
 }
-.img-proyecto3{
-    background-image: url('/assets/Pintereste.png');
-    background-size: 800px;
-    opacity: 90%;
-
+footer {
+  background-color: rgb(134, 182, 246);
 }
-footer{
-    background-color: rgb(134, 182, 246);
-    
+footer .icon-footer i {
+  color: rgb(238, 245, 255);
 }
-footer .icon-footer i{
-    color: rgb(238, 245, 255);
+footer p {
+  color: rgb(238, 245, 255);
 }
-footer p{
-    color: rgb(238, 245, 255);
+footer p a {
+  color: rgb(238, 245, 255);
 }
-footer p a{
-    color: rgb(238, 245, 255);
-}
-#app{
-    color: rgb(3, 52, 110);
+#app {
+  color: rgb(3, 52, 110);
 }
